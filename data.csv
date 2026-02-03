@@ -1,0 +1,8 @@
+intent,question,response
+greeting,hi,Welcome to our hotel! 😊
+greeting,hello,Hello! How can I help you today?
+menu,show menu,Here is our menu 🍽️
+menu,what dishes are available,Here is our menu 🍽️
+order,i want to order,Please type the dish name you want to order 🍕
+thanks,thank you,Thank you for ordering! 😊
+goodbye,bye,Visit again! 👋
